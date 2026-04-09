@@ -27,21 +27,21 @@ public class eleccion {
     }
 
     // Métodos
-     void colorfxv() {
-         System.out.println(colorfv + "que nvuen color");
+     void colorfv() {
+         System.out.println(nombre+" "+edad+" "+colorfv +" "+ "que buen color");
     }
 
      void altura() {
-        System.out.println(altura + "tu altura es buenisimaaaaaaaaaa");
+        System.out.println(nombre+" "+edad+" "+altura +" "+ "tu altura es buenisimaaaaaaaaaa");
     }
      void edad() {
-        System.out.println(edad + "gracias");
+        System.out.println(nombre+" "+edad +" "+ "alto no sos");
     }
      void numTarjeta() {
-        System.out.println(numTarjeta + "gracias");
+        System.out.println(nombre+" "+numTarjeta +" "+ "gracias gato");
     }
      void nombre() {
-        System.out.println(nombre+ "gracias");
+        System.out.println(nombre+" "+edad +" "+ " igual no te pregunte el nombre ni la altura gato");
     }
 
 }
